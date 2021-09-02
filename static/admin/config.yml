@@ -14,6 +14,5 @@ collections:
     folder: "static/posts" # The path to the folder where our blog posts are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document
-      - { label: "Slug", name: "slug", widget: "string" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }

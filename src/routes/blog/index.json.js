@@ -1,4 +1,3 @@
-// ~/src/routes/blog/index.json.js
 import fs from "fs";
 import path from "path";
 import grayMatter from "gray-matter";
